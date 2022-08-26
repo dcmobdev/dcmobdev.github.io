@@ -1,6 +1,7 @@
 google.com, pub-4926692118391090, DIRECT, f08c47fec0942fa0
 
 facebook.com, 471084868202938, DIRECT, c3e20eee3f780d68
+facebook.com, 155679435141174, DIRECT, c3e20eee3f780d68
 
 inmobi.com, 15112e8414584cbb97b2a87bc6e8a7e4, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER, 83e75a7ae333ca9d

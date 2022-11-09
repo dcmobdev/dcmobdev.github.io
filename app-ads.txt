@@ -1,8 +1,19 @@
-google.com, pub-4926692118391090, DIRECT, f08c47fec0942fa0
+# 2022-11-09 16:53
 
+# Admob
+google.com, pub-4926692118391090, DIRECT, f08c47fec0942fa0
+google.com, pub-5727984989807229, DIRECT, f08c47fec0942fa0
+
+# Facebook
 facebook.com, 471084868202938, DIRECT, c3e20eee3f780d68
 facebook.com, 155679435141174, DIRECT, c3e20eee3f780d68
+facebook.com, 2882819108423656, DIRECT, c3e20eee3f780d68
 
+# PangleGlobal
+pangleglobal.com, 54852, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
+# Inmobi
 inmobi.com, 6052fb49be074480bbedb310b07fa4d2, DIRECT, 83e75a7ae333ca9d
 engagebdr.com, 16, RESELLER
 gitberry.com, 31mbg, RESELLER
@@ -187,6 +198,7 @@ pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 smartadserver.com, 4322, RESELLER
 appnexus.com, 11450, RESELLER
 
+# Unity
 unity.com, 1173021, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -210,12 +222,13 @@ admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
 telaria.com, rwd19-1173021, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1173021, RESELLER, 1a4e959a1b50034a
 
-mopub.com, 57d45af1ad5640d29de70b02a4667ec7, DIRECT, 74b46c0ea83967ca
-
+# AdColony
 adcolony.com, 60292ba3fc7acddf31598729fac2dcee, DIRECT, 1ad675c9de6b5176
 
+# Applovin
 applovin.com, fb6a91c6f9942cfa113bc7ceef4752b3, DIRECT
 
+# Fyber
 fyber.com, 209521, DIRECT
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
 adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
@@ -298,7 +311,7 @@ axonix.com,57716,RESELLER
 gamaigroup.com,320201,RESELLER
 pubmatic.com,155975,RESELLER,5d62403b186f2ace
 
-# reklamup
+# ReklamUp
 reklamup.com, 5228435683, DIRECT
 google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807

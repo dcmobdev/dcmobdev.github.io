@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>How to download by WDownloader</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      html,
+      body {
+        height: 100%;
+        background: #161616;
+      }
+      .XDownload {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: 100%;
+        overflow: visible;
+      }
+      .nav {
+        display: flex;
+        height: 44px;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .nav img {
+        display: inline-block;
+      }
+      .union {
+        width: 25px;
+        height: 19px;
+        margin-left: 11px;
+      }
+      .shape {
+        width: 24px;
+        height: 24px;
+        margin-right: 10px;
+      }
+      .appName {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        color: rgba(255, 255, 255, 1);
+      }
+      .specialAppName {
+        color: #c93d1c;
+      }
+      .main {
+        margin-left: 16px;
+        margin-right: 16px;
+      }
+      .search {
+        margin-bottom: 16px;
+        display: flex;
+      }
+      .search input {
+        flex: 1 1 75%;
+        height: 36px;
+        box-sizing: border-box;
+        border: 2px solid #d9d9d9;
+        border-radius: 2px 0px 0px 2px;
+        outline: none;
+      }
+      .searchButton {
+        flex: 1 1 25%;
+        height: 36px;
+        background: #d9d9d9;
+        border: 2px solid #d9d9d9;
+        border-radius: 0px 2px 2px 0px;
+        font-size: 15px;
+        line-height: 18px;
+        color: #040404;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .searchButton img {
+        display: inline-block;
+        width: 14px;
+        height: 14px;
+        margin-right: 6px;
+      }
+      .video {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+      }
+      .video img {
+        position: absolute;
+        display: inline-block;
+        width: 62px;
+        height: 62px;
+      }
+      video {
+        width: 100%;
+        object-fit: contain;
+      }
+      .headline {
+        font-family: 'SF Pro Text';
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: rgba(255, 255, 255, 0.9);
+        margin-top: 16px;
+        margin-bottom: 10px;
+      }
+      .content {
+        font-family: 'SF Pro';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: rgba(255, 255, 255, 0.9);
+        margin-top: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="XDownload">
+      <div class="nav">
+        <img class="union" src="./assets/ic_menu.png" />
+        <div class="appName"><span class="specialAppName">W</span><span>Downloader</span></div>
+        <img class="shape" src="./assets/ic_settings.png" />
+      </div>
+      <div class="main">
+        <div class="search">
+          <input readonly />
+          <button class="searchButton">
+            <img src="./assets/ic_search.png" />
+            Search
+          </button>
+        </div>
+        <div class="video">
+          <video poster="https://dcfile-cdn.thinkyeah.com/xdownloader/imgs/poster.jpg" controls="controls">
+            <source src="https://dcfile-cdn.thinkyeah.com/xdownloader/videos/xd-guide-gp-compressed-v1.mp4" type="video/mp4" />
+          </video>
+        </div>
+        <div class="headline">How to download pictures and videos with WDownloader?</div>
+        <div>
+          <div class="content">After watched the above video, you can know:</div>
+          <div class="content">1. How to download videos and pictures on websites?</div>
+          <div class="content">2. How to protect privacy by PIN?</div>
+        </div>
+      </div>
+    </div>
+    <script>
+      const video = document.querySelector('.video video');
+      video.addEventListener('ended', () => {
+        video.currentTime = 0;
+      });
+    </script>
+  </body>
+</html>

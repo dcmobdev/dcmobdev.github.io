@@ -5,6 +5,7 @@ google.com, pub-4926692118391090, DIRECT, f08c47fec0942fa0
 google.com, pub-5727984989807229, DIRECT, f08c47fec0942fa0
 google.com, pub-5237734536577898, DIRECT, f08c47fec0942fa0
 google.com, pub-6555956274372099, DIRECT, f08c47fec0942fa0
+google.com, pub-6289051987561348, DIRECT, f08c47fec0942fa0
 
 
 # Facebook

@@ -1,4 +1,4 @@
-# Updated at 2024/10/14 10:27:14
+# Updated at 2024/11/01 11:43:28
 
 # Admob
 google.com,pub-4926692118391090,DIRECT,f08c47fec0942fa0
@@ -1534,4 +1534,10 @@ contextweb.com,563521,RESELLER,89ff185a4c4e857c
 yabbi.me,675d9254-4032-47ed-9074-b6ef4dbab522,DIRECT
 madex.world,544b4c02-bccb-47eb-a8c2-0a6be081778b,DIRECT
 betweendigital.com,43713,RESELLER
-bigo.sg,128,DIRECT
+screenil.com,554156,DIRECT
+appnexus.com,16220,RESELLER,f5ab79cb980f11d1
+sharethrough.com,KqNHFkhm,RESELLER,d53b998a7bd4ecd2
+onetag.com,8df8f252fa801e4,RESELLER
+triplelift.com,13792,RESELLER,6c33edb13117fd86
+triplelift.com,13465,RESELLER,6c33edb13117fd86
+bigo.sg,1292,DIRECT

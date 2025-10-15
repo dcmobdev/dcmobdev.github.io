@@ -1,0 +1,15 @@
+{
+    "applinks": {
+      "details": [
+        {
+          "appIDs": ["7FTDGAGQH5.com.dcmobile.clean"],
+          "components": [
+            {
+              "/": "/oraclean",
+              "?": {"feature": "*" , "tab": "*" }
+            }
+          ]
+        }
+      ]
+    }
+  }
